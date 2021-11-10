@@ -17,6 +17,10 @@
 	text-decoration:none;
 	text-shadow:0px 1px 0px #080808;
 }
+#picc{
+	border-style:none;
+	border-radius:172px;
+}
 #l1{
     
     font-size: 14px;
